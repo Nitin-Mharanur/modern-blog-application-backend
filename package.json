@@ -1,0 +1,27 @@
+{
+  "name": "express-blog-application",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nitin M",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "apollo-server-express": "^3.13.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "graphql": "^16.9.0",
+    "jest": "^29.7.0",
+    "kafka-node": "^5.0.0",
+    "pg": "^8.13.0",
+    "pg-hstore": "^2.3.4",
+    "redis": "^4.7.0",
+    "sequelize": "^6.37.3",
+    "socket.io": "^4.8.0",
+    "supertest": "^7.0.0",
+    "typeorm": "^0.3.20"
+  }
+}
